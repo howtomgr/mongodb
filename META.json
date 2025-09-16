@@ -1,0 +1,69 @@
+{
+  "category": "databases",
+  "created_date": "2025-09-15T22:48:58.254719",
+  "default_ports": [
+    0,
+    1,
+    7,
+    30,
+    27017,
+    27018,
+    27019
+  ],
+  "dependencies": [
+    "mongodb-server",
+    "mongodb-tools"
+  ],
+  "description": "MongoDB is a free and open-source document-oriented NoSQL database. Originally developed by 10gen (now MongoDB Inc.), MongoDB uses JSON-like documents with optional schemas instead of traditional table-based relational database structure. It serves as a FOSS alternative to commercial document databases like Amazon DocumentDB, Azure Cosmos DB, or Oracle NoSQL Database, offering enterprise-grade features including horizontal scaling, replica sets, and sharding without licensing costs, with features like ACID transactions, aggregation pipelines, and full-text search.",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/databases/mongodb",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/databases/mongodb",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.254746",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "mongodb",
+  "repository_url": "https://github.com/howtomgr/mongodb",
+  "spec_version": "2.0",
+  "subcategory": "databases",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "databases",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "communication"
+  ],
+  "title": "MongoDB Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/databases/mongodb"
+}
